@@ -1,0 +1,32 @@
+body
+  {
+    padding: 0;
+    margin: 0;
+    background:gray
+  }
+
+  .navbar
+  {
+    background:#000
+  }
+
+  .nav-link
+  {
+    margin-right: 5em !important;
+  }
+
+  .navbar-collapse
+  {
+    justify-content: flex-end;
+  }
+
+  .center
+  {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+  }
+
+
+
+ 
