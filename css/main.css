@@ -27,9 +27,20 @@ body
     display: block;
   }
 
-  .container {
-    align-content: center;
-  }
+ .footer
+ {
+   background-color: black;
+   padding: 10px;
+   text-align: center;
+   color:cornsilk
+ }
+
+ #new_div_3
+ {
+  margin: 0 auto;
+  position: relative;
+  width: 60%;
+ }
 
 
 
